@@ -1,4 +1,4 @@
-# Weather app
+# Weather App
 
 Displays current weather by city
 
